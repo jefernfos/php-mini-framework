@@ -1,0 +1,30 @@
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fonts/Inter-Regular.woff2") format("woff2"); }
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+header {
+    text-align: center;
+    margin-top: 16px;
+}
+
+nav a {
+    padding: 8px;
+}
+
+h1 a {
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+}
+
+.success {
+    color: #00ff00;
+}
+
+.error {
+    color: #ff0000;
+}
