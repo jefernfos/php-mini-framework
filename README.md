@@ -45,3 +45,5 @@ A lightweight PHP framework to build fast web applications.
    php -S localhost:8000 -t public
    ```
 7. Open your web browser and navigate to `http://localhost:8000`.
+
+This project is in progress and should not be used in production.
