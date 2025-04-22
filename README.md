@@ -4,7 +4,7 @@ A lightweight PHP framework to build fast web applications.
 
 ## Features
 | Feature         | Status           | Description                                                                  |
-| --------------- | ---------------- | ---------------------------------------------------------------------------- |
+|-----------------|------------------|------------------------------------------------------------------------------|
 | Bootstrap       | Implemented      | Initializes the application and loads the composer, router and container.    |
 | Models          | Implemented      | Handles rules, logic and interactions with the database.                     |
 | Views           | Implemented      | Renders HTML templates and presents the data.                                |
