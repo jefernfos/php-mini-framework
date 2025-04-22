@@ -2,6 +2,10 @@
 
 A lightweight PHP framework to build fast web applications.
 
+![addfruit](/examples/addfruit.png)
+
+![fruit](/examples/fruit.png)
+
 ## Features
 | Feature         | Status           | Description                                                                  |
 |-----------------|------------------|------------------------------------------------------------------------------|
